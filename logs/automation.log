@@ -1,0 +1,208 @@
+15:19:08.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\master.xml
+
+15:19:15.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+15:19:18.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:19:21.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+15:19:21.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:19:21.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:21:46.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\master.xml
+
+15:21:58.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+15:22:04.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:22:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+15:22:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:22:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:22:22.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+15:22:22.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:23:38.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\master.xml
+
+15:23:50.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+15:23:55.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:23:59.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+15:23:59.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:23:59.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:24:11.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+15:24:11.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:24:11.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:24:48.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\master.xml
+
+15:24:56.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+15:25:00.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:25:04.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+15:25:04.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:25:04.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:25:16.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+15:25:16.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:25:16.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+15:25:28.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+15:25:28.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+15:38:08.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+15:38:58.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+15:39:06.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+15:39:07.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+15:39:07.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+15:39:09.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+15:39:09.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:39:10.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:39:14.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+15:39:22.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+15:39:24.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+15:39:25.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+15:39:25.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+15:39:26.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+12:57:57.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+12:58:06.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+12:58:20.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+12:58:21.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+12:58:23.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+12:58:23.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:58:24.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:58:25.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+12:59:04.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+12:59:16.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+12:59:18.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+12:59:19.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+12:59:20.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+12:59:20.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:59:21.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:59:22.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+12:59:33.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+12:59:35.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:59:37.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+12:59:38.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+12:59:41.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+13:00:34.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+13:00:44.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+13:00:46.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+13:00:46.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+13:00:47.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+13:00:47.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:00:49.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:00:50.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+13:01:01.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+13:01:03.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:01:04.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+13:01:04.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+13:01:05.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+13:01:16.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:01:23.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:01:28.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+13:01:28.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:01:28.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:01:40.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:01:40.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:01:40.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:01:52.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:01:52.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:02:54.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+13:03:04.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+13:03:06.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+13:03:07.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+13:03:08.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+13:03:08.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:03:09.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:03:10.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+13:03:21.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+13:03:23.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:03:24.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+13:03:24.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+13:03:25.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+13:03:38.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:03:42.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:03:47.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+13:03:47.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:03:47.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:03:59.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:12:33.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\test-output\testng-failed.xml
+
+13:12:42.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:12:45.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:12:58.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:14:13.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\test-output\testng-failed.xml
+
+13:14:32.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:14:39.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:14:51.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:14:51.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:14:51.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:16:12.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\test-output\testng-failed.xml
+
+13:16:29.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:16:33.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:16:45.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:16:45.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:18:09.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\grouping.xml
+
+13:18:18.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Firefox browser
+13:18:20.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest Test ****
+13:18:20.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked My Account Link
+13:18:21.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register Link
+13:18:21.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:18:22.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:18:23.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest Test ****
+13:18:33.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+13:18:35.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:18:36.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+13:18:37.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+13:18:38.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+13:18:49.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Firefox browser
+13:18:54.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:18:57.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Valid Log In, Act: Logged In
+13:18:57.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:18:57.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:19:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:19:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:19:09.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Starting TC003_LoginDDTest ***
+13:19:21.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Exp: Invalid Log In, Act: Login Uncessful
+13:19:21.$$$ [main%] INFO  testCases.TC003_LoginDDTest - *** Finished TC003_LoginDDTest ***
+13:21:12.$$$ [main%] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\minousca\eclipse-workspace\Framework_OpencartV1\master.xml
+
+13:21:18.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Firefox browser
+13:21:20.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:21:21.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+13:21:21.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+17:35:12.$$$ [main%] INFO  testCases.TC001_AccountRegistrationTest - Launching Chrome browser
+17:35:16.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+17:35:22.$$$ [main%] INFO  testCases.TC003_LoginDDTest - Launching Chrome browser
+17:36:00.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+17:38:41.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+17:38:53.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+17:38:54.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+17:38:54.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+17:38:55.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+18:25:30.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+18:25:31.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:25:32.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+18:25:32.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+18:25:32.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+18:30:39.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+18:30:40.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:30:41.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+18:30:42.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+18:30:42.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
+18:50:28.$$$ [main%] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+18:50:29.$$$ [main%] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:50:30.$$$ [main%] INFO  testCases.TC002_LoginTest - **** Enter Credentials for Login ****
+18:50:30.$$$ [main%] INFO  testCases.TC002_LoginTest - Validating successful Login
+18:50:31.$$$ [main%] INFO  testCases.TC002_LoginTest - *** FInished TC002_LoginTest ***
